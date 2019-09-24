@@ -1,3 +1,1 @@
-"This is my first project"
-dushyanth srinivas
-2+3=5
+2-3 = -1
